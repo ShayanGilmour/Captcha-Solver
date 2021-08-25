@@ -62,6 +62,8 @@ of its Neural Network (which is 40×20) and give it to its CNN:
 <p float="left">
   <img src="https://user-images.githubusercontent.com/12760574/130742795-981eb25c-f863-4da8-8b2d-c25654d20ed9.png" width="600" />
 </p>
+
+Some other examples:
 <p float="left">
   <img src="https://user-images.githubusercontent.com/12760574/130750931-4a7c4984-ec02-45e5-8c9b-aa26b27b2e99.png" width="300" />
   <img src="https://user-images.githubusercontent.com/12760574/130750953-31da61a0-ce5b-46be-8be2-140c7c813572.png" width="300" />
